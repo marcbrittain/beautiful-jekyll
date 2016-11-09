@@ -1,1 +1,1 @@
-This is the repository for [marcbrittain.com](http://marcbrittain.com/)
+This is the repository for [marcbrittain.github.io](http://marcbrittain.com/)
