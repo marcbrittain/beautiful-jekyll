@@ -18,6 +18,7 @@ avatar: "/img/web_photos/marc_brittain.JPG"
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
+  Tutorials: "tutorials"
   About/Contact: "aboutme"
   Home: ""
 
