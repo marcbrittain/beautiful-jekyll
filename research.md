@@ -7,7 +7,7 @@ title: Current Projects
 ----
 
 1.  Forecasting Shoreline position - 
-        *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset/tree/master/Narrabeen_Trial_2) 
+        *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset) 
 
 2.  Training RNN for song generation - 
         *Code coming soon!
