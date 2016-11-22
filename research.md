@@ -7,9 +7,9 @@ title: Current Projects
 ----
 
 1.  Forecasting Shoreline position - 
-* Profile 1:       *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset) 
+* Profile 1:       *[GitHub page](https://github.com/marcbrittain/marcbrittain.github.io/blob/master/Forecasting_Profile_1/Forecasting_Profile_1.md) 
 
-2.  Powerful Yelp Api package for accessing data with ease - 
+2.  Powerful Yelp Api optimization package for accessing data with ease - 
         *Code coming soon!
 
 3.  Why we need quantum computers. Prime factorization example - 
