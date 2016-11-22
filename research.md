@@ -7,7 +7,7 @@ title: Current Projects
 ----
 
 1.  Forecasting Shoreline position - 
-*        *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset) 
+* Profile 1:       *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset) 
 
 2.  Powerful Yelp Api package for accessing data with ease - 
         *Code coming soon!
