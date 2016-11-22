@@ -7,9 +7,9 @@ title: Current Projects
 ----
 
 1.  Forecasting Shoreline position - 
-        *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset) 
+*        *[GitHub page](https://github.com/marcbrittain/Narrabeen-Dataset) 
 
-2.  Training RNN for song generation - 
+2.  Powerful Yelp Api package for accessing data with ease - 
         *Code coming soon!
 
 3.  Why we need quantum computers. Prime factorization example - 
