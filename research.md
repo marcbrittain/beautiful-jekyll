@@ -7,7 +7,7 @@ title: Current Projects
 ----
 
 1.  Forecasting Shoreline position - 
-* Profile 1:       *[GitHub page](https://github.com/marcbrittain/marcbrittain.github.io/blob/master/Forecasting_Profile_1/Forecasting_Profile_1.md) 
+* Profile 1:       *[GitHub page](https://github.com/marcbrittain/Narrabeen/blob/master/Forecasting%20Profile%201.ipynb) 
 
 2.  Powerful Yelp Api optimization package for accessing data with ease - 
         *Code coming soon!
