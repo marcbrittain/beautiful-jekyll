@@ -7,6 +7,7 @@ title: Current Projects
 ----
 
 1.  Forecasting Shoreline position - 
+* Determining Method of Interpolation: *[Jupyter Notebook](https://github.com/marcbrittain/Narrabeen/blob/master/Narrabeen%20Shoreline%20Positions.ipynb) 
 * Profile 1:       *[Jupyter Notebook](https://github.com/marcbrittain/Narrabeen/blob/master/Forecasting%20Profile%201.ipynb) 
 
 2.  Powerful Yelp Api optimization package for accessing data with ease - 
