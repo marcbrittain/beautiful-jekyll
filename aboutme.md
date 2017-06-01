@@ -8,7 +8,7 @@ layout: page
 
 ## Contact
 
-* [mwb7302@uncw.edu](mailto:mwb7302@uncw.edu)
+* [mwb@iastate.edu](mailto:mwb@iastate.edu)
 
 ### Brief Notes
 
