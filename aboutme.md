@@ -2,11 +2,9 @@
 layout: page
 ---
 
-## About/Contact
+### Aerospace Engineering PhD Student at Iowa State University
 
-## Aerospace Engineering PhD Student at Iowa State University
-
-## Contact
+### Contact
 
 * [mwb@iastate.edu](mailto:mwb@iastate.edu)
 
