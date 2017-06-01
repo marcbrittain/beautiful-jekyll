@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me
+## About/Contact
 
 ## Aerospace Engineering PhD Student at Iowa State University
 
