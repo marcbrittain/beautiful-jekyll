@@ -16,7 +16,7 @@ Current student at Iowa State Univerity pursuing a PhD in Aerospace Engineering.
 -Marc Brittain
 
 * Member of the Intelligent Aerospace Systems Lab at Iowa State University
-  * [IASL Home] (http://www.aere.iastate.edu/~pwei/lab.html)
+  * [IASL Home](http://www.aere.iastate.edu/~pwei/lab.html)
 
 * Former member of the Complex Adaptive Systems Lab at UNCW
   * [CASL Home](http://people.uncw.edu/mcnamarad/)
