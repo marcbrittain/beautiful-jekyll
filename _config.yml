@@ -20,7 +20,7 @@ navbar-links:
   Research:
      - Research Code: "research"
      - Publications: "Publications"
-  Tutorials: "tutorials"
+     - Python Tutorials: "tutorials"
   About/Contact: "aboutme"
   Home: ""
 
