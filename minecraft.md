@@ -24,4 +24,5 @@ In this episode, we use a prebuilt experiment in the project malmo python exampl
 
 #### Support
 If this helped you reduce time to develop, or if you found this work interesting feel free to send me a cup of coffee :)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/MarcBrittain)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/MarcBrittain)
