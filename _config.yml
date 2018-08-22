@@ -20,6 +20,7 @@ navbar-links:
   Research:
      - Research Code: "research"
      - Publications: "Publications"
+     - MineCraft: "minecraft"
      - Python Tutorials: "tutorials"
   About/Contact: "aboutme"
   Home: ""
