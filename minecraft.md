@@ -12,7 +12,7 @@ MineCraft is an open world environment that allows players to adventure, as well
 ## Episodes
 
 1. [Episode 1](https://youtu.be/36dcvShKctM)
-* Code will be linked soon :)
+* [Code](https://github.com/marcbrittain/MineCraft/tree/master/Episodes/Episode_1)
 
 ### Synopsis
 
