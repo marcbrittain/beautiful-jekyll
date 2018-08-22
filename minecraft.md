@@ -6,6 +6,7 @@ title: MineCraft
 
 ----
 MineCraft is an open world environment that allows players to adventure, as well as, create. Many different control and stochastic experiments can be created in the MineCraft world, which is why it is becoming very popular in the Artififical Intelligence community. We make use of the project malmo platform developed by Microsoft to interface with MineCraft and run our experiments. Our AI agent, Ralph will start out learning basic problems in MineCraft and then begin to attempt more challenging problems where we plan to push current AI to the limits! Follow along in our video series to see how Ralph is doing. The code for each episode will also be posted as well, so feel free to contact me with any questions. 
+
 ----
 
 
