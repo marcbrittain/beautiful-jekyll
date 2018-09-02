@@ -6,7 +6,7 @@ title: Current Projects
 
 ----
 1. Deep Reinforcement Learning
-* Deep Double Q-learning applied to various environments: [code](https://github.com/marcbrittain/Deep-Reinforcement-Learning)
+* Deep Double Q-learning applied to various environments: [Code Here :)](https://github.com/marcbrittain/Deep-Reinforcement-Learning)
 
 
 2. Reinforment Learning
