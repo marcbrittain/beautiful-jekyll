@@ -5,8 +5,9 @@ title: Current Projects
 
 
 ----
-1. Deep Double-Q learning applied to multi-decision game environments
-* ***Code coming soon***
+1. Deep Reinforcement Learning
+* Deep Double Q-learning applied to various environments: [code](https://github.com/marcbrittain/Deep-Reinforcement-Learning)
+
 
 2. Reinforment Learning
 * Value Iteration for Gridworld Environment: *[Jupyter Notebook](https://github.com/marcbrittain/Reinforcement_Learning/blob/master/small_code.ipynb)
