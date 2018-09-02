@@ -29,7 +29,7 @@ title: Current Projects
         *[Jupyter Notebook](https://github.com/marcbrittain/Python_Tutorials/blob/master/Quantum%20Computing/Why%20we%20need%20Quantum%20Computers.ipynb)
 
 
-
+---
 #### Support
 If this helped you reduce time to develop, or if you found this work interesting feel free to send me a cup of coffee :)
 
