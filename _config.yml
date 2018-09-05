@@ -99,4 +99,4 @@ prose:
     - /css
     - /img
     - /js
-    - /_posts
+    #- /_posts
