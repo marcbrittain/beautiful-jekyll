@@ -22,5 +22,5 @@ BUT, this did not help the problem. Tensorflow was still finding the other GPU a
 ```python
 export CUDA_VISIBLE_DEVICES=0
 ```
-After adding this, I was able to run the code properly on whichever GPU specified. 
+After adding this, I was able to run the code properly on whichever GPU specified.
 
