@@ -2,7 +2,7 @@
 layout: post
 title: AI in MineCraft: Episode 
 tags: [MineCraft, AI, python, keras, tensorflow]
-permalink: /2018/09/06/minecraft-episode/
+permalink:/2018/09/06/minecraft-episode/
 ---
 
 
