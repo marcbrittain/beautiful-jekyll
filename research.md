@@ -9,7 +9,7 @@ title: Current Projects
 * Deep Double Q-learning (DDQN) and Deep Q-learning (DQN) applied to the Atari game Breakout! [Code here :)](https://github.com/marcbrittain/Deep-Reinforcement-Learning)
 
 
-2. Reinforment Learning
+2. Reinforcement Learning
 * Value Iteration for Gridworld Environment: *[Jupyter Notebook](https://github.com/marcbrittain/Reinforcement_Learning/blob/master/small_code.ipynb)
 
 3. Directed Acyclic Graph Structure Learning
@@ -28,9 +28,4 @@ title: Current Projects
 7.  Why we need quantum computers. Prime factorization example - 
         *[Jupyter Notebook](https://github.com/marcbrittain/Python_Tutorials/blob/master/Quantum%20Computing/Why%20we%20need%20Quantum%20Computers.ipynb)
 
-
 ---
-#### Support
-If this helped you reduce time to develop, or if you found this work interesting feel free to send me a cup of coffee :)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/MarcBrittain)
