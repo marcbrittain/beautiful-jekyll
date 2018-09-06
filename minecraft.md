@@ -13,8 +13,8 @@ MineCraft is an open world environment that allows players to adventure, as well
 
 1. [Episode 1](https://youtu.be/36dcvShKctM)
 * [Code](https://github.com/marcbrittain/MineCraft/tree/master/Episodes/Episode_1)
+* Post on Episode 1 with more details on the environment setup can be found here! [post](https://marcbrittain.github.io/2018/09/06/minecraft-episode-1/)
 
-Check out the post on Episode 1 to find out more details on the environment setup! [Episode 1](https://marcbrittain.github.io/2018/09/06/minecraft-episode-1/)
 
 
 
