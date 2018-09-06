@@ -57,6 +57,14 @@ url-pretty: "marcbrittain.com"
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-87316872-1"
 
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
