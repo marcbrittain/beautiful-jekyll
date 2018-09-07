@@ -9,7 +9,8 @@ title: Current Projects
 * Deep Double Q-learning (DDQN) with Prioritized Experience Replay
 * Deep Double Q-learning (DDQN)
 * Deep Q-learning (DQN)
--- [Code here :)](https://github.com/marcbrittain/Deep-Reinforcement-Learning)
+
+[Code here :)](https://github.com/marcbrittain/Deep-Reinforcement-Learning)
 
 
 2. Reinforcement Learning
