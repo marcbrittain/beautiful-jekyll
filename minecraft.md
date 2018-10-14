@@ -20,8 +20,3 @@ MineCraft is an open world environment that allows players to adventure, as well
 
 
 ---
-
-#### Support
-If this helped you reduce time to develop, or if you found this work interesting feel free to send me a cup of coffee :)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/MarcBrittain)
